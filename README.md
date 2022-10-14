@@ -1,4 +1,4 @@
-### Hi, Welcome to my githyb Profile 👋
+### Hi, Welcome to my github Profile 👋
 
 - 🔭 I’m currently working on bullding a UAT management tracker using Spring boot.
 - 🌱 I’m currently learning Spring Boot.
