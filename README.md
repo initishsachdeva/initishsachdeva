@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, Welcome to my githyb Profile 👋
 
-- 🔭 I’m currently working on bullding a UAT management tracket using Spring boot.
+- 🔭 I’m currently working on bullding a UAT management tracker using Spring boot.
 - 🌱 I’m currently learning Spring Boot.
 - 👯 I’m looking to collaborate on Spring based projects.
 - 🤔 I’m looking for help with making world better.
