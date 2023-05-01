@@ -7,31 +7,31 @@
 An experienced Automation Test Engineer with 3+ years of experience in developing and implementing automation test frameworks and strategies. Proficient in various programming languages, automation tools, and testing methodologies. Demonstrated ability to lead cross-functional teams and deliver high-quality products.
 
 ## Skills :
-• Strong experience in developing and implementing automation test frameworks and strategies.
-• Proficient in programming languages like Java, Python, and Typescript/Javascript.
-• Proficient in automation tools like Selenium,TestNG, Maven,Playwright, Rest Assured, BDD Cucumber.
-• Experience in Git version control and Jenkins pipeline automation for creating CI/CD pipeline.
-• Strong knowledge of Agile methodologies and the Software Development Life Cycle (SDLC).
-• Excellent analytical and problem-solving skills.
-• Ability to work independently and in a team environment.
-• Excellent communication and interpersonal skills.
+• Strong experience in developing and implementing automation test frameworks and strategies.<br>
+• Proficient in programming languages like Java, Python, and Typescript/Javascript.<br>
+• Proficient in automation tools like Selenium,TestNG, Maven,Playwright, Rest Assured, BDD Cucumber.<br>
+• Experience in Git version control and Jenkins pipeline automation for creating CI/CD pipeline.<br>
+• Strong knowledge of Agile methodologies and the Software Development Life Cycle (SDLC).<br>
+• Excellent analytical and problem-solving skills.<br>
+• Ability to work independently and in a team environment.<br>
+• Excellent communication and interpersonal skills.<br>
 
 ## Industry Experience :
-• Developed and implemented automation test frameworks for web applications using Selenium WebDriver with Java and TestNG.
-• Developed and implemented automation test frameworks for web applications using Playwright with Typescript.
-• Represented a POC on automating API’s using RestAssured using Java for testing RESTful web services.
-• Created and executed performance and load tests for web services using JMeter.
-• Developed and maintained Git repositories and branches for source code version control.
-• Worked on Jenkins pipeline automation for continuous integration and continuous delivery (CI/CD).
-• Streamlined the process for other team members/projects to integrate automation test frameworks with different reporting tools like Allure-Report and Report-Portal.
-• Mentored and trained new team members on automation testing best practices.
+• Developed and implemented automation test frameworks for web applications using Selenium WebDriver with Java and TestNG.<br>
+• Developed and implemented automation test frameworks for web applications using Playwright with Typescript.<br>
+• Represented a POC on automating API’s using RestAssured using Java for testing RESTful web services.<br>
+• Created and executed performance and load tests for web services using JMeter.<br>
+• Developed and maintained Git repositories and branches for source code version control.<br>
+• Worked on Jenkins pipeline automation for continuous integration and continuous delivery (CI/CD).<br>
+• Streamlined the process for other team members/projects to integrate automation test frameworks with different reporting tools like Allure-Report and Report-Portal.<br>
+• Mentored and trained new team members on automation testing best practices.<br>
 
 ## Training Knowledge/Personal Achievement :
-• Developed a sample automation test frameworks for web applications using different tools and languages and implemented various reporting tools like Allure-Report and Report-Portal.
-	A. Selenium WebDriver with Java and TestNG.
-	B. Playwright with Typescript
-	C. Selenium with Python and Pytest
-	D. RestAssured with Java
+• Developed a sample automation test frameworks for web applications using different tools and languages and implemented various reporting tools like Allure-Report and Report-Portal.<br>
+	A. Selenium WebDriver with Java and TestNG.<br>
+	B. Playwright with Typescript.<br>
+	C. Selenium with Python and Pytest.<br>
+	D. RestAssured with Java.<br>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/initishsachdeva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-sachdeva-a0a71a121/) [![Twitter](https://img.shields.io/twitter/follow/initishsachdeva?logo=Twitter&style=for-the-badge)](https://twitter.com/@initishsachdeva) 
