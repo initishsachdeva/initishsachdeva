@@ -68,7 +68,7 @@ An experienced Automation Test Engineer with 3+ years of experience in developin
 
 <div align="center">
 
-### You can make world a better place even by writing a piece of code ❤️ 
+### If there is no struggle, there is no progress. ❤️ 
 
 </div>
 
