@@ -68,7 +68,7 @@ An experienced Automation Test Engineer with 3+ years of experience in developin
 
 <div align="center">
 
-### If there is no struggle, there is no progress. ❤️ 
+### If there is no struggle, there is no progress.❤️ 
 
 </div>
 
