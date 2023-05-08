@@ -31,7 +31,7 @@ An experienced Automation Test Engineer with 3+ years of experience in developin
 	A. Selenium WebDriver with Java and TestNG.<br>
 	B. Playwright with Typescript.<br>
 	C. Selenium with Python and Pytest.<br>
-	D. RestAssured with Java.<br>
+	D. RestAssured with Java.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/initishsachdeva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitish-sachdeva-a0a71a121/) [![Twitter](https://img.shields.io/twitter/follow/initishsachdeva?logo=Twitter&style=for-the-badge)](https://twitter.com/@initishsachdeva) 
